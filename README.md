@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @AndresPaulino
+- Building the next industry shaking web-application
 - 📫 How to reach me ... www.andrespaulino.com
 
 <!---
