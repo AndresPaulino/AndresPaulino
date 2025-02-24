@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AndresPaulino
-- Building the next industry shaking web-application
+- ✨ I'm a Software Engineer with hands-on experience leading the design, development, and deployment of fullstack platforms, backend infrastructure, microservices, APIs, and frontend user interfaces. Technical Leader focused on leveraging the latest technologies and frameworks to enhance functionality, performance, and security while improving efficiency.
 - 📫 How to reach me ... www.andrespaulino.com
 
 <!---
